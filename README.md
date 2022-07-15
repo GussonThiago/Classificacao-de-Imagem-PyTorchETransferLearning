@@ -1,9 +1,10 @@
 # Classificação
 
- Classificação usou os dados do [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
+ Classificação usou os dados do [Google images](https://images.google.com/).
 
 
- Nesse projeto de classificação usamos as bibliotecas Scikit Learn e XGBoost para analisar as informações de empresa que oferece planos de telefone, interne e televisão. Desenvolvemos uma solução para prever o CHURN (% de clientes que deixam a empresa em um determinado período).
+ Nesse projeto de classificação usamos as bibliotecas PyTorch e Transfer Learning para analisar as imagens coletadas no Google. Desenvolvemos uma solução para anexar uma
+ imagem de batata, cenoura, tomate ou limão e o modelo classifica a imagem anexada e diz o que é essa hortaliça.
  
  Projeto realizado em aula pelo curso do [Lets Data](https://www.letsdata.ai/sobre-nos)
  
